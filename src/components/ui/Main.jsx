@@ -4,7 +4,7 @@ import UploadArea from './UploadArea'
 import { notification } from 'antd'
 import Validation from '../Validation'
 import TextInput from './TextInput'
-import ModifiedVideo from './modifiedVideo'
+import ModifiedVideo from './ModifiedVideo'
 import Loader from './Loader'
 import SendButton from './SendButton'
 
